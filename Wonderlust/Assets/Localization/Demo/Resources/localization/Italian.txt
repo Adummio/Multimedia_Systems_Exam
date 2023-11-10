@@ -1,0 +1,11 @@
+sett	Impostazioni
+info	Informazioni
+lang	Lingua
+expl	Esplora
+opt		Opzioni
+gall	Galleria
+web		Sito web
+cred	Riconoscimenti
+theme	Tema
+bright	Chiaro
+dark	Scuro

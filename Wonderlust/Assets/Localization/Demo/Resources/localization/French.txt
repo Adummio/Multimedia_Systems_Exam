@@ -1,0 +1,11 @@
+﻿sett	Paramètres
+info	Information
+lang	Langue
+expl	Explorez
+opt		Options
+gall	Galerie
+web		Site web
+cred	Remerciements
+theme	Thème
+bright	Clair
+dark	Sombre

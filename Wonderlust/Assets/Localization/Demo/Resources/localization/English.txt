@@ -1,0 +1,11 @@
+sett	Settings
+info	Info
+lang	Language
+expl	Explore
+opt		Options
+gall	Gallery
+web		Website
+cred	Credits
+theme	Theme
+bright	Bright
+dark	Dark
